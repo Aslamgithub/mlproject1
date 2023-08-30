@@ -1,3 +1,4 @@
 pandas 
 numpy
+#where is my apps
 -e .
