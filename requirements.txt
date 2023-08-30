@@ -1,4 +1,5 @@
 pandas 
 numpy
-#where is my apps
+matplotlib
+seaborn
 -e .
